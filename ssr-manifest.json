@@ -1,48 +1,180 @@
 {
-  "vite/modulepreload-polyfill": [],
-  "src/api/index.ts": [],
-  "src/stores/root.ts": [],
-  "src/composables/useProjects.ts": [],
-  "src/stores/projects.ts": [],
-  "src/modules/pinia.ts": [],
-  "vite/preload-helper": [],
-  "src/components/footer/AppFooter.vue": [],
-  "src/components/common/AppTextarea.vue": [],
-  "src/components/common/AppInput.vue": [],
-  "src/components/common/SectionHeader.vue": [],
-  "src/composables/useActiveRoute.ts": [],
-  "src/components/portfolio/contact/Contact.vue": [],
-  "src/components/common/SectionBlock.vue": [],
-  "src/components/portfolio/testimonials/Testimonials.vue": [],
-  "src/components/portfolio/projects/Projects.vue?vue&type=style&index=0&lang.css": [],
-  "src/components/portfolio/projects/Projects.vue": [],
-  "plugin-vue:export-helper": [],
-  "src/components/icons/Globe.vue": [],
-  "src/components/icons/Learn.vue": [],
-  "src/components/icons/Brain.vue": [],
-  "src/components/icons/Design.vue": [],
-  "src/components/portfolio/services/Services.vue": [],
-  "src/components/portfolio/hero/HeroIntro.vue": [],
-  "src/composables/useMobileMenu.ts": [],
-  "src/components/navigation/mobile-menu/Hamburger.vue?vue&type=style&index=0&scoped=true&lang.css": [],
-  "src/components/navigation/mobile-menu/Hamburger.vue": [],
-  "src/components/navigation/mobile-menu/MobileMenu.vue": [],
-  "../../../../../avatar.png": [],
-  "src/composables/useEventListener.ts": [],
-  "src/stores/routes.ts": [],
-  "src/components/navigation/Navbar.vue": [],
-  "src/components/portfolio/hero/Hero.vue": [],
-  "src/pages/index.vue": [],
-  "../../../../../@vite-plugin-pages/generated-pages": [],
-  "src/layouts/default.vue": [],
-  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
-  "src/App.vue": [],
-  "../../../../../@windicss/windi-base.css": [],
-  "../../../../../@windicss/windi-components.css": [],
-  "src/styles/main.css": [],
-  "../../../../../@windicss/windi-utilities.css": [],
-  "src/main.ts": [],
-  "index.html": [],
+  "vite/modulepreload-polyfill": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/api/index.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/stores/root.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/composables/useProjects.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/stores/projects.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/modules/pinia.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "vite/preload-helper": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/footer/AppFooter.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/common/AppTextarea.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/common/AppInput.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/common/SectionHeader.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/composables/useActiveRoute.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/contact/Contact.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/common/SectionBlock.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/testimonials/Testimonials.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/projects/Projects.vue?vue&type=style&index=0&lang.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/projects/Projects.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "plugin-vue:export-helper": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/icons/Globe.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/icons/Learn.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/icons/Brain.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/icons/Design.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/services/Services.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/hero/HeroIntro.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/composables/useMobileMenu.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/navigation/mobile-menu/Hamburger.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/navigation/mobile-menu/Hamburger.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/navigation/mobile-menu/MobileMenu.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../avatar.png": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/composables/useEventListener.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/stores/routes.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/navigation/Navbar.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/components/portfolio/hero/Hero.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/pages/index.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/layouts/default.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/App.vue": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../@windicss/windi-base.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../@windicss/windi-components.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/styles/main.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "../../../../../@windicss/windi-utilities.css": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "src/main.ts": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
+  "index.html": [
+    "/assets/Quicksand-Regular.dbe2a5f8.ttf",
+    "/assets/Quicksand-Bold.2b4b10cd.ttf"
+  ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
     "/assets/vendor.bc2ef461.js"
   ],
