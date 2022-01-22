@@ -1,139 +1,48 @@
 {
-  "vite/modulepreload-polyfill": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/api/index.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/stores/root.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/composables/useProjects.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/stores/projects.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/modules/pinia.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "vite/preload-helper": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/footer/AppFooter.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/common/AppTextarea.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/common/AppInput.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/common/SectionHeader.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/composables/useActiveRoute.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/contact/Contact.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/common/SectionBlock.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/testimonials/Testimonials.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/projects/Projects.vue?vue&type=style&index=0&lang.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/projects/Projects.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "plugin-vue:export-helper": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/icons/Globe.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/icons/Learn.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/icons/Brain.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/icons/Design.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/services/Services.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/hero/HeroIntro.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/composables/useMobileMenu.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/navigation/mobile-menu/Hamburger.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/navigation/mobile-menu/Hamburger.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/navigation/mobile-menu/MobileMenu.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../avatar.png": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/composables/useEventListener.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/stores/routes.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/navigation/Navbar.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/components/portfolio/hero/Hero.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/pages/index.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../@vite-plugin-pages/generated-pages": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/layouts/default.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "public/imgload.svg": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/App.vue": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../@windicss/windi-base.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../@windicss/windi-components.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/styles/main.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "../../../../../@windicss/windi-utilities.css": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "src/main.ts": [
-    "/assets/imgload.c16211ff.svg"
-  ],
-  "index.html": [
-    "/assets/imgload.c16211ff.svg"
-  ],
+  "vite/modulepreload-polyfill": [],
+  "src/api/index.ts": [],
+  "src/stores/root.ts": [],
+  "src/composables/useProjects.ts": [],
+  "src/stores/projects.ts": [],
+  "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
+  "src/components/footer/AppFooter.vue": [],
+  "src/components/common/AppTextarea.vue": [],
+  "src/components/common/AppInput.vue": [],
+  "src/components/common/SectionHeader.vue": [],
+  "src/composables/useActiveRoute.ts": [],
+  "src/components/portfolio/contact/Contact.vue": [],
+  "src/components/common/SectionBlock.vue": [],
+  "src/components/portfolio/testimonials/Testimonials.vue": [],
+  "src/components/portfolio/projects/Projects.vue?vue&type=style&index=0&lang.css": [],
+  "src/components/portfolio/projects/Projects.vue": [],
+  "plugin-vue:export-helper": [],
+  "src/components/icons/Globe.vue": [],
+  "src/components/icons/Learn.vue": [],
+  "src/components/icons/Brain.vue": [],
+  "src/components/icons/Design.vue": [],
+  "src/components/portfolio/services/Services.vue": [],
+  "src/components/portfolio/hero/HeroIntro.vue": [],
+  "src/composables/useMobileMenu.ts": [],
+  "src/components/navigation/mobile-menu/Hamburger.vue?vue&type=style&index=0&scoped=true&lang.css": [],
+  "src/components/navigation/mobile-menu/Hamburger.vue": [],
+  "src/components/navigation/mobile-menu/MobileMenu.vue": [],
+  "../../../../../avatar.png": [],
+  "src/composables/useEventListener.ts": [],
+  "src/stores/routes.ts": [],
+  "src/components/navigation/Navbar.vue": [],
+  "src/components/portfolio/hero/Hero.vue": [],
+  "src/pages/index.vue": [],
+  "../../../../../@vite-plugin-pages/generated-pages": [],
+  "src/layouts/default.vue": [],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "src/App.vue": [],
+  "../../../../../@windicss/windi-base.css": [],
+  "../../../../../@windicss/windi-components.css": [],
+  "src/styles/main.css": [],
+  "../../../../../@windicss/windi-utilities.css": [],
+  "src/main.ts": [],
+  "index.html": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
     "/assets/vendor.bc2ef461.js"
   ],
@@ -405,347 +314,347 @@
     "/assets/README.18d2877a.js"
   ],
   "src/components/icons/Chevron.vue": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "src/components/portfolio/projects/ProjectSwitch.vue": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "src/components/common/CloseButton.vue": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/ssr-window/ssr-window.esm.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/dom7/dom7.esm.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/dom.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/utils.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/get-support.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/get-device.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/get-browser.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/modules/resize/resize.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/modules/observer/observer.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events-emitter.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateSize.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateSlides.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateAutoHeight.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateSlidesOffset.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateSlidesProgress.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateProgress.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateSlidesClasses.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateActiveIndex.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/updateClickedSlide.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/update/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/getTranslate.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/setTranslate.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/minTranslate.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/maxTranslate.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/translateTo.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/translate/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/transition/setTransition.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/transition/transitionEmit.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/transition/transitionStart.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/transition/transitionEnd.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/transition/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideTo.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideToLoop.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideNext.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slidePrev.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideReset.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideToClosest.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/slideToClickedSlide.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/slide/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/loop/loopCreate.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/loop/loopFix.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/loop/loopDestroy.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/loop/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/grab-cursor/setGrabCursor.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/grab-cursor/unsetGrabCursor.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/grab-cursor/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onTouchStart.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onTouchMove.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onTouchEnd.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onResize.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onClick.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/onScroll.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/events/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/breakpoints/setBreakpoint.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/breakpoints/getBreakpoint.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/breakpoints/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/classes/addClasses.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/classes/removeClasses.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/classes/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/images/loadImage.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/images/preloadImages.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/images/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/check-overflow/index.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/defaults.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/moduleExtendParams.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/core/core.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/create-element-if-not-defined.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/shared/classes-to-selector.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/modules/pagination/pagination.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/modules/autoplay/autoplay.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/utils.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/params-list.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/get-params.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/init-swiper.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/loop.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/get-changed-params.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/get-children.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/update-swiper.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/virtual.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/swiper.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/swiper/vue/swiper-slide.js": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "src/pages/projects/[id].vue?vue&type=style&index=0&lang.css": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "src/pages/projects/[id].vue": [
-    "/assets/_id_.598a6c07.js",
+    "/assets/_id_.e889280c.js",
     "/assets/_id_.94462d25.css"
   ],
   "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
@@ -773,6 +682,6 @@
     "/assets/404.209f11bb.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.99b6fa13.js"
+    "/assets/home.f1a73121.js"
   ]
 }
